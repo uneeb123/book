@@ -1,0 +1,3 @@
+# Attempts so far...
+
+People don't brag about the number of times they failed at something. Mostly because, as humans, we like to hear of winners.
