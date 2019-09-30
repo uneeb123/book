@@ -1,12 +1,12 @@
 # Why you should care about cryptocurrency?
 
-I was sitting in a meeting with an angel investor in Seattle at one of the WeWork locations. After exchanging quick intros, we jumped straight to business. I was giving him my spiel about how I am working on a cryptocurrency wallet when he cut me off and asked:
+I was sitting in a meeting with an angel investor in Seattle at one of the WeWork locations. After exchanging quick intros, we jumped straight to business. I gave him the spiel about the cryptocurrency wallet I was working on when he cut me off and asked:
 
 > I have a very basic question for you. Why should I care? It's volatile. I can't use it to buy coffee. It takes an hour to purchase anything. It's only used for speculation.
 
-I muttered a few unconvincing sentences, attempting my best to persuade him to take me more seriously. I was somewhat successful in the sense that he did promise a follow-up meeting. But I knew he was right. I didn't have the answers. It just wasn't meant for transactions. I had just quit my job at Amazon to pursue a track in cryptocurrency. I wasn't just going to drop the ball and accept defeat. There had to be some compelling use-cases for cryptocurrency. For the next few months or so, I tried to get a better understanding of what is going on.
+I muttered a few unconvincing sentences, attempting my best to persuade him to take me more seriously. I was somewhat successful in the sense that he did promise a follow-up meeting. But I never went back. He was right. I didn't have the answers. It just wasn't meant for transactions. I had just quit my job at Amazon to pursue a track in cryptocurrency. I wasn't just going to drop the ball and accept defeat. There had to be some compelling use-cases for cryptocurrency. For the next few months or so, I tried to get a better understanding of what is going on.
 
-In my investigations in the proceeding year, not only did I understand why there is so much enthusiasm among Bitcoiners, I was also astounded by the fact that in the upcoming years, it might impact every individual on earth. Just as the Internet had done before. I believe I found the answers that I needed. I would also like to share them with the wider audience. I solemnly believe that cryptocurrency is one of the most inspiring movement of recent times and to really understand what is going on, we have to take a quick tour of economics and finance. We are truly on a cusp of something revolutionary.
+In my investigations in the proceeding year, not only did I understood why there was so much enthusiasm among Bitcoiners, but I was also astounded by the impact cryptocurrency was going to have that I felt most people were oblivious to. Just as the Internet. But different this time around. I do believe I found the answers that I needed. Now I want to share them with you all. You be the judge. I solemnly believe that cryptocurrency is a remarkable feat of humankind and to really understand what is going on, we have to take a quick tour of economics and finance. We are truly on a cusp of something revolutionary.
 
 <img src="tweet.png" alt="Globalist" width="600"/>
 
@@ -20,7 +20,7 @@ That's not all though. The money system needs to be constructed and preserved. I
 
 <img src="coins.jpg" alt="Metallism" width="500"/>
 
-There are two main forms: Aristotle's "metallist" and Plato's "chartalist". In metallist economic theory, the value of the currency derives from the market value of the commodity upon which it is based [1]. As the name implies, precious metals such as gold and silver are ideal forms of metallist currency. In chartalism, money derives its value mainly from the authority of the state [2]. Fiat currency, the predominant form of currency that we use today, is an special case of chartalism, whereby money is established through government regulation. Both of forms of money have existed in tandem through history.
+Let's talk about the form. How does it exist? What is it based on? What about the value that it carries? To that end, there are two broad categories: Aristotle's "metallist" and Plato's "chartalist". In metallist economic theory, the value of the currency derives from the market value of the commodity upon which it is based [1]. As the name implies, precious metals such as gold and silver of fixed weights are ideal forms of metallist currency. There isn't a need for a trusted intermediary. In chartalism, money derives its value mainly from the authority of the state [2]. Fiat currency, the predominant form of currency that we use today, is an special case of chartalism, whereby money is established through government regulation. Both forms of money have existed in tandem through history.
 
 Central banks
 Trade/bill of exchange (https://en.wikipedia.org/wiki/History_of_money)
