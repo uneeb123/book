@@ -1,6 +1,6 @@
 # Why you should care about cryptocurrency?
 
-I was sitting in a meeting with an angel investor in Seattle at one of the WeWork locations. After exchanging quick intros, we jumped straight to business. I gave him the spiel about the cryptocurrency wallet I was working on when he cut me off and asked:
+I was sitting in a meeting with an angel investor in Seattle at one of the WeWork locations. After exchanging quick intros, we jumped straight to business. I gave him the spiel about the cryptocurrency wallet I was working on, when he cut me off and asked:
 
 > I have a very basic question for you. Why should I care? It's volatile. I can't use it to buy coffee. It takes an hour to purchase anything. It's only used for speculation.
 
