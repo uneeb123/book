@@ -24,8 +24,10 @@ How does it exist? What is it based on? What value does it carry? To that end, t
 
 <img src="coins.jpg" alt="Metallism" width="500"/>
 
-### IOUs
+### I owe you
 
+Trade is driving force behind change and progress
+merchant/guild
 Venice banks
 https://en.wikipedia.org/wiki/History_of_banking
 But that's not the money we are familiar with today.
