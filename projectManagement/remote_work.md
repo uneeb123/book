@@ -1,26 +1,73 @@
-# Future of work
+# Rise of remote
 
-<img src="futurework.jpg">
+<img height="300px" src="futurework.jpg">
 
-## Setting the scene
+## Why now?
 
-We live in an ever-changing landscape of Internet businesses. The 80s saw the invention of terminals revolutionizing finance; gaming consoles; and perhaps the biggest disruptor of them all: the PC - introducing a whole swathe of applications that found its way into the very fabric of everyday businesses. And just when people had wrapped their heads around it, the Internet took it to a whole new level. Everything that we thought was novel, was suddenly yesteryear. Our tools migrated online. The benefit was obvious: you can store things in "the cloud". Pictures; videos; documents; spreadsheets; presentations; you name it. Not only that you didn't have to care about your data at all times, it was now available to you on the go. There was no excuse for ignoring work email late in the evening. Appointments could be made to anyone from anywhere. Connectivity was stronger than ever before. And as data got bigger, our statistical models got better. Educational videos were now literally at the tip of your fingers. And it had learnt your preferred style also.
+What is remote at its core? Is it a fad? A perk to lure skilled workers? Or a societal transformation that will re-mobilize workers? Remote work policies are now a core aspect of workplace dynamics. But it doesn't hold the same meaning for everyone. To a worker at a corporate gig, it might mean being able to work from home once a week. To a consultant who advises his clients in different parts of the world, it could mean less travel. And to a freelancer, it's about less friction is working for an overseas companies. None of those trends are novel, but there has been a [growing buzz](https://twitter.com/search?q=%23futureofwork) in world of venture capital that this form of collaboration will result in a fundamental shift in the way we work with our peers and future peers.
 
-<img src="enterprise-technology-timeline.png">
+<img height="300px" src="scale.png">
 
-We've come a long way since then. And our workplaces are changing again. There is rise of [remote work](https://www.fastcompany.com/90318974/the-rise-of-remote-working-will-continue). Emergence of new tools for collaboration. How will the future of work look like? Noone knows for sure. But we can look at some trends.
+I have been obsessed with this problem ever since I took up a job at an early stage venture that is building an all-inclusive collaboration tool for freelance designers. I wanted to better understand the buzz around remote work and understand at its core what gave rise to the trend. And perhaps, more curiously, fresh from a recent endeavor in the blockchain space, I wanted to investigate whether there exists a relationship with the blockchain ecosystem. Afterall, [a decent amount of blockchain-based companies are fully remote](https://medium.com/zinc_work/why-twice-as-many-blockchain-teams-are-distributed-ca1065ba973b) and the call-to-action is build a decentralized society.
 
-### How do people coordinate?
+## The data
 
-Back in the days, there was no substitute for the good old office desk. You'd check-in to work at 8 am. Have cup of coffee with your co-workers before settling down for the day of work. And leaving at 6 pm knowing that this is end of your day. Rarely, your boss would call you up after work. I remember when I was young how my dad used to hate being in the office after regular hours. There was no substitute for meetings. Meetings with managers, with your colleagues, with external folks who might be collaborating with you on some level. I can only imagine how difficult it'd be to work with contractors. Since you can only touch-base with them so many times.
+Since March, Atlassian has expanded to more than 300 remote employees, which amounts to nearly [8% of its workforce](https://www.cnbc.com/2019/12/15/atlassian-offers-remote-work-opportunities-8percent-of-employees-are-remote.html). Approximately a third of Atlassian’s teams currently have a remote worker. At Aetna, 47 percent of workers telecommute, up from 9 percent in 2005. the policy has saved the company \$78 million in real estate costs. In 2009, [IBM reported that 40% of its 386,000 employees in 173 countries were working remotely](https://www.forbes.com/sites/carolkinseygoman/2017/10/12/why-ibm-brought-remote-workers-back-to-the-office-and-why-your-company-might-be-next/#4810674616da). That policy allowed IBM to sell off its office buildings at a gain of almost \$2 billion.
 
-Things have changed considerably. And thankfully for the better. Although there is much room for improvement. Checking-in at 8 am is unneccessary. I am really grateful for the fact that coming in 8 am is no longer critical. Although it does come with its cons. The biggest one being that if there is anything that needs your attention at 11 pm at night, it can be dealt it. So while we prolonged our morning, we have cut short our nights. Another great feature of today's work environment is that it's possible to work from home now. Tools such as Slack, Asana and Zoom have ensured that everyone is on the same page at all times. And there is no problem in connecting with folks using Internet-based apps. Again, that does come with it's disadvantages. The obvious one being that it adds an extra overhead. Not only do you have to do the work, you have to ensure that Jira board reflects your status (I totally suck at that part) and as one would expect, there is still no real substitute for real-life communication.
+Off-shore development has been steadily growing for the past decade and its [current market size is \$130bn](https://www.ibisworld.com/industry-statistics/market-size/business-process-outsourcing-services-united-states). There are centers in India, China and Ukraine that have successfully established their [dominance in this market segment](https://medium.com/existek/software-development-outsourcing-what-options-do-you-have-c67c94cae9a8). At the same time, digital nomadic lifestyle is on the rise too.
+
+<img height="800px" src="gig-economy.jpg">
+
+Jessica Lin from [work-bench VC](https://www.work-bench.com/) and Allison Baum from [Trinity Ventures](https://www.trinityventures.com/) have thoroughly explored the topic of the future of work. Their findings conclude that automation and gig-economy has to play a huge role in future workplaces. Some key finding:
+
+- [From 2000–2014 productivity increased by 80 percent, while wages increased a mere 1.2 percent](https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/)
+- Today, [nearly 5 million people are working part-time](https://www.bls.gov/news.release/empsit.t08.htm) because they can’t get full-time work, and even among people with full-time jobs, [30 percent have been forced to take on extra jobs](http://maristpoll.marist.edu/wp-content/misc/usapolls/us171204_KoC/NPR/NPR_Marist%20Poll_National%20Nature%20of%20the%20Sample%20and%20Tables_January%202018.pdf#page=3?mod=article_inline) to cover their costs.
+- The whittling away of the middle class is unfortunately a long-term trend. Sixty-nine percent of Americans ages 18–64 have less than \$1,000 saved.
+- Some estimates predict artificial intelligence will automate [up to 47 percent of US jobs in the next ten to twenty years](https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation), forcing us all to adapt faster and more proactively than ever before.
+
+<img height="300px" src="automation.png">
+
+For those reasons, they expect the future of work to be:
+
+1. Automated
+2. Distributed
+3. Based on gig-economy
+4. Data-driven (meritocratic)
+
+A very fascinating idea by Allison Baum are [flipped workplaces](https://qz.com/work/1551999/the-benefits-of-flipped-workplaces-include-protection-from-ai/).
+
+## How do people coordinate?
+
+Until recently, there was no substitute for the office desk work. You'd have to check-in to work at 8 am. Have cup of coffee with your co-workers before settling down for the day of work. And by 6 pm, you'd lock your office door knowing that it is end of the day's work. Rarely, your boss would call you up after work. I remember when I was young how my dad used to hate being in the office after regular hours. There was no substitute for meetings. Meetings with managers, with your colleagues, with external folks who might be collaborating with you on some projects. And I can only imagine how difficult it'd be to work with contractors. Since you can only touch-base with them so many times.
+
+<img src="office.png" height="200">
+
+Things have changed considerably. And thankfully for the better for the most part. Yet there is much room for improvement. For one, strict working hours is a thing of the past. It is confined to some limits, but coming at 8 am is just not necessary. And why should it be when you can work from anywhere particularly for matters that require immediate attention. Essentially creating two queues for work items: one that critical in nature and the other that requires thorough-thought. This transition, however, does come at a cost. The biggest one being that over-reliance on critical issues being solved at any time & place means that workers might start feeling overwhelmed - particularly if issues start popping up at night (which has happened to me on quite a few occasions). A potential solution could be to have a georgraphically distributed work-force that can tackle any problem during their normal hours. For now, that's a luxury that only a few teams can afford.
+
+Closely-related, but another great feature of today's work environment is that it's possible to work from home now. Tools such as Slack, Asana and Zoom have ensured that everyone is on the same page at all times. And there is no problem in connecting with folks using Internet-based apps. Again, that has it's disadvantages too. The obvious one being that it adds an extra-overhead. Not only do you have to do the work, you have to ensure that JIRA board reflects your status (which I despise), putting the task item in the correct order, commenting on the ticket if there is anything that needs supervisor attention. Even with all this tooling there is still no substitute for IRL communication.
+
+## Tools
+
+## Problems of remote work
+
+Studies show that people who work at home are significantly more productive but less innovative - John Sullivan
+
+https://www.nytimes.com/2013/02/26/technology/yahoo-orders-home-workers-back-to-the-office.html
+http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/
+
+In face-to-face encounters, our brains process the continual cascade of nonverbal cues that we use as the basis for building trust and professional intimacy. Face-to-face interaction is information-rich. We interpret what people say to us only partially from the words they use. We get most of the message (and all of the emotional nuance behind the words) from vocal cues, facial expressions, and physical movements. And we rely on nonverbal feedback – the instantaneous responses of others – to help us gauge how well our ideas are being accepted. So potent is the nonverbal link between individuals that, when we are in genuine rapport with someone, we subconsciously match our body positions, movements, and even our breathing rhythms with theirs. Most interesting, the brain's ”mirror neurons” mimic not just other people’s behaviors, but their feelings as well. (A reaction referred to as “emotional contagion.”)
+
+Consider this scenario:
+
+Jack: "I spent my whole evening yesterday fixing this issue and I think we should punt it for now. I also diagnosed the root cause of last weeks severity 1 alarm and I think the pipeline was broken, so I've fixed that"
+
+This was the third time Jack has said that. And Michael, usually a very trustful person, was quite skeptical about Jack. He was being quite independent with the issues that he was working on. Michael had no way of knowing how much effort they required. He had a feeling Jack was cheating. And he worked way less than expected of him. But he had no way of knowing for sure.
+
+This is a fairly common problem with employees that work remotely.
 
 I recently had a fasincating conversation with a colleague of mine who had worked with multiple remote teams in the past. I asked him: what is the biggest challenge in remote development that isn't present with in-house development? Gordon had a good answer. When people work together they build models of someone's work personality. They know what certain person is like. How reliable he is when working on open-ended tasks versus how passionate he is about making a change. The same can not be said about remote developers. It's actually quite fascinating for anyone interested in work psychology.
 
-### Tools of Trade
-
-### WeWork fiasco
+## WeWork fiasco
 
 WeWork really stood out in 2019 and unfortunately, for them for all the wrong reasons. Although WeWork isn't quite dead yet. It is perceived have lost almost all its glory. Adam Neumann is made ridicule of. And everyone is quite skeptical of their prospects. But it's interesting to examine WeWork from the future of work perspective.
 
@@ -48,65 +95,9 @@ remote work standards vs. ditributed offices? secret sauce?
 
 ---
 
-### Remote work: the perk
-
-Since March, Atlassian has expanded to more than 300 remote employees, which amounts to nearly 8% of its workforce. The majority of those remote employees are in the U.S., including some as far as Hawaii and Montana. In Australia, the farthest employee is located more than 800 miles west of Sydney in Adelaide. To overcome time zone challenges, Atlassian makes sure its remote workers overlap at least four hours of core business hours with their teammates. Approximately a third of Atlassian’s teams currently have a remote worker.
-https://www.cnbc.com/2019/12/15/atlassian-offers-remote-work-opportunities-8percent-of-employees-are-remote.html
-
-Studies show that people who work at home are significantly more productive but less innovative - John Sullivan
-
-At Aetna, 47 percent of workers telecommute, up from 9 percent in 2005. the policy has saved the company \$78 million in real estate costs
-https://www.nytimes.com/2013/02/26/technology/yahoo-orders-home-workers-back-to-the-office.html
-http://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers/
-
-In 2009, IBM reported that 40% of its 386,000 employees in 173 countries were working remotely. That policy allowed IBM to sell off its office buildings at a gain of almost \$2 billion.
-
-In face-to-face encounters, our brains process the continual cascade of nonverbal cues that we use as the basis for building trust and professional intimacy. Face-to-face interaction is information-rich. We interpret what people say to us only partially from the words they use. We get most of the message (and all of the emotional nuance behind the words) from vocal cues, facial expressions, and physical movements. And we rely on nonverbal feedback – the instantaneous responses of others – to help us gauge how well our ideas are being accepted. So potent is the nonverbal link between individuals that, when we are in genuine rapport with someone, we subconsciously match our body positions, movements, and even our breathing rhythms with theirs. Most interesting, the brain's ”mirror neurons” mimic not just other people’s behaviors, but their feelings as well. (A reaction referred to as “emotional contagion.”)
-https://www.forbes.com/sites/carolkinseygoman/2017/10/12/why-ibm-brought-remote-workers-back-to-the-office-and-why-your-company-might-be-next/#4810674616da
-
-What does the future workplace look like?
-https://www.youtube.com/watch?v=3Yqbps1d0sY
-
 ---
 
 ## Future of work
-
-[From 2000–2014 productivity increased by 80 percent, while wages increased a mere 1.2 percent](https://www.epi.org/publication/understanding-the-historic-divergence-between-productivity-and-a-typical-workers-pay-why-it-matters-and-why-its-real/)
-
-Today, [nearly 5 million people are working part-time](https://www.bls.gov/news.release/empsit.t08.htm) because they can’t get full-time work, and even among people with full-time jobs, [30 percent have been forced to take on extra jobs](http://maristpoll.marist.edu/wp-content/misc/usapolls/us171204_KoC/NPR/NPR_Marist%20Poll_National%20Nature%20of%20the%20Sample%20and%20Tables_January%202018.pdf#page=3?mod=article_inline) to cover their costs.
-
-The whittling away of the middle class is unfortunately a long-term trend. Sixty-nine percent of Americans ages 18–64 have less than \$1,000 saved.
-
-Some estimates predict artificial intelligence will automate [up to 47 percent of US jobs in the next ten to twenty years](https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation), forcing us all to adapt faster and more proactively than ever before.
-
-The American death rate from drugs, alcohol, and mental disorders has [nearly tripled since 1980](https://medicalxpress.com/news/2016-12-american-death-drugs-alcohol-mental.html).
-
-1. Automation
-   All predictable, repetitive tasks are automated.
-   (https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation)
-
-2. Distribution
-   Silicon Valley dethroned
-
-3. Gig economy
-   In the U.S., more than 40% of workers are employed in 'alternative work arrangements,'
-   such as contingent, part-time or gig work.
-   https://www.shrm.org/hr-today/news/all-things-work/pages/gig-workers-challenge-old-order.aspx
-   TaskRabbit
-
-4. Data-driven (meritocratic and outcome-focused)
-   Flipped workplaces by Allison Baum
-   (https://qz.com/work/1551999/the-benefits-of-flipped-workplaces-include-protection-from-ai/)
-
-https://medium.com/trinity-ventures/investing-in-the-future-of-work-eec30f6455e9
-
-#### Jessica Lin
-
-1. Human centered AI
-
-AI and automation will help free up the most mundane, manual, repetitive, labor-intensive parts of a person’s job, to move workers onto higher-value skills and jobs.
-
-2. Agile Learning
 
 ---
 
@@ -138,6 +129,8 @@ https://www.upwork.com/i/future-workforce/fw/2019/
 
 ### Blockchain
 
+https://twitter.com/uneeb123/status/1218998491877261312
+
 Distributed teams
 
 the technology is founded on the principle of decentralisation and Bitcoin and Ethereum are distributed team success stories
@@ -151,3 +144,11 @@ Binance team members collaborate across time zones and oceans. Profitability.
 https://www.forbes.com/sites/nataliakarayaneva/2019/05/23/the-office-as-a-network-blockchain-as-a-model-for-business/#be561f021f09
 
 DAO
+
+Twitter accounts
+
+https://twitter.com/chris_herd
+
+https://twitter.com/jerseejess
+
+https://twitter.com/Jobvo
