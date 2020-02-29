@@ -95,38 +95,6 @@ remote work standards vs. ditributed offices? secret sauce?
 
 ---
 
----
-
-## Future of work
-
----
-
-### Productivity tools
-
-Communication
-
-Background checking distributed teams
-
-https://zinc.work/blog/post/background-checking-global-teams
-
----
-
-### Freelancer
-
-Currently, 63% of employers have remote workers, yet a majority lack remote work policies.
-
-> Remote work policies?
-
-https://www.fastcompany.com/40537399/remote-work-is-the-new-normal
-
-https://www.upwork.com/i/future-workforce/fw/2019/
-
----
-
-### Remote offices
-
----
-
 ### Blockchain
 
 https://twitter.com/uneeb123/status/1218998491877261312

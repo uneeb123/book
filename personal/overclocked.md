@@ -1,3 +1,0 @@
-# Overclocked
-
-Just a few days after publishing my previous post giving updates on my current situation, I learnt from the company where I was working at the time that there was a need for my services anymore. And quite frankly, that was an absolute shocker. It came out of nowhere and right after I had worked really hard to deliver a feature which was planned to be delivered three months later. Monday morning, I was asked into the meeting room and told that I should leave immediately. And that due to budget concerns, staff was being laid off. I am still unsure on what the real reasons were. My hunch that it had to do something with raising money. Let me clarify: in Bay Area, it is quite common for startups to blitz scale.
